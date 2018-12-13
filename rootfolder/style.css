@@ -17,7 +17,7 @@
 .oxygen{
   grid-column: 1/2;
   grid-row: 3/4;
-  background-color: red;
+  background-color: cyan;
 }
 .nitrogen{
   grid-column: 1/3;
